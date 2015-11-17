@@ -1,0 +1,23 @@
+name: Krause Intaglio
+favicon: null
+layout_spectrum: 0.6509595799725503
+typography_spectrum: 0.9061865641269833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10715415049344301
+  lightness: 0.014345642179250717
+  saturation: 0.9152144761756063
+  rhythmicContrast: 0.3419583388604224
+purpose: []
